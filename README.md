@@ -9,3 +9,7 @@ Figma do projeto -> https://www.figma.com/file/P5GJdw13qDgOjd4B7HSjoo/Blog-de-Ga
 - Unidade de medida flexível;
 - Variáveis no CSS;
 - Animações e transições simples.
+
+<p align="center">
+  <img alt="" src="./assets/Sem título.png" width="100%">
+</p>
